@@ -56,9 +56,7 @@ int main(){
             cout<<"El jugador 1 juega con X"<<endl<<"El jugador 2 juega con O"<<endl;
             system("PAUSE");
 
-
-
-
+            // PENDIENTE: Reimplementación
 
             cout<<"Inserta 1 si deseas salir del juego, cualquier otro valor para jugar de nuevo."<<endl;
             cout<<"Ingresa una opcion: ";
