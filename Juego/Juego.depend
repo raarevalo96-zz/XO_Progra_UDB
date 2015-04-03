@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1428078302 source:c:\users\rodrigo\documents\github\xo_progra_udb\juego\main.cpp
+	<iostream>
+	<cstring>
+	<conio.h>
+	<cstdlib>
+
